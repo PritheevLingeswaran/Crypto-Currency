@@ -37,10 +37,6 @@ CryptoPredictor/
 
 ⚙️ Installation & Setup
 
-Clone the Repository
-
-git clone https://github.com/yourusername/CryptoPredictor.git
-cd CryptoPredictor
 
 
 Install Dependencies
